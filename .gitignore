@@ -1,0 +1,33 @@
+# Build output
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+
+# Visual Studio / user-specific files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.cache
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# NuGet
+packages/
+*.nupkg
+
+# Windows / editor noise
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+
+# Test artifacts
+TestResults/
+coverage*/
